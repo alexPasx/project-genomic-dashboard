@@ -1,8 +1,8 @@
-# Project · Genomic Dashboard
+﻿# Project Β· Genomic Dashboard
 
 Responsive React genomics dashboard powered by the live [gnomAD browser](https://gnomad.broadinstitute.org/) GraphQL API.
 
-Search any GRCh38 gene symbol—such as `LRRK2`, `BRCA1`, `TP53`, `SNCA`, or `GBA`—and explore live variant, population-frequency, coverage, constraint, and ClinVar-linked data.
+Search any GRCh38 gene symbolβ€”such as `LRRK2`, `BRCA1`, `TP53`, `SNCA`, or `GBA`β€”and explore live variant, population-frequency, coverage, constraint, and ClinVar-linked data.
 
 ## Run locally
 
@@ -53,5 +53,6 @@ An internet connection is required to retrieve live gnomAD data. This project is
 
 ## Dashboard Preview
 
-![Genomic Dashboard Preview](docs/dashboard-preview.png)
+![Genomic Dashboard Preview](docs/dashboard-preview-v2.png)
+
 
