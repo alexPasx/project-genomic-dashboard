@@ -50,3 +50,8 @@ npm run preview
 ## Notes
 
 An internet connection is required to retrieve live gnomAD data. This project is intended for research and education and is not a diagnostic system.
+
+## Dashboard Preview
+
+![Genomic Dashboard Preview](docs/dashboard-preview.png)
+
