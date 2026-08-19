@@ -1,4 +1,4 @@
-﻿# Project Β· Genomic Dashboard
+﻿# Genomic Dashboard
 
 Responsive React genomics dashboard powered by the live [gnomAD browser](https://gnomad.broadinstitute.org/) GraphQL API.
 
